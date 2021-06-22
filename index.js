@@ -1,6 +1,6 @@
 // Write your solution here!
-let append = ["Milo", "Otis"]
-append.push('Odie');
-append.shift('prepend');
-append.removeLast();
-append.removeFirst();
+let append = ["Milo", "Otis", "Garfield"]
+append.push('Odie')
+append.unshift('Odie')
+// prepend.removeLast();
+// prepend.removeFirst();
